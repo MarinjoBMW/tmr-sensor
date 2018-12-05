@@ -136,4 +136,5 @@ __interrupt void Timer_A(void){
     P1OUT ^= BIT0;
     TACTL |= MC_1;
 
-}
+}//LOVRO FEG
+
